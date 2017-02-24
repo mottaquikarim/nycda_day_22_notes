@@ -1,0 +1,14 @@
+{
+  "name": "file-cmds",
+  "version": "1.0.0",
+  "description": "a bunch of promise based file commands that will help us do things in terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
